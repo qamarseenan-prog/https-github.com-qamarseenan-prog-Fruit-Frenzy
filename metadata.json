@@ -1,0 +1,5 @@
+{
+  "name": "Fruit Frenzy",
+  "description": "A fast-paced fruit catching game. Move the basket to catch falling fruits, avoid missing them, and get an AI-powered performance review at the end!",
+  "requestFramePermissions": []
+}
